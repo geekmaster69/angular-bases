@@ -11,14 +11,13 @@ import { ListComponent } from "./components/list/list.component";
   declarations: [
     HeroComponent,
     ListComponent
-
-
   ],
+
   exports: [
     HeroComponent,
     ListComponent
-
   ],
+
   imports:[
     CommonModule
   ]
